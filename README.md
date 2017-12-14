@@ -70,7 +70,7 @@ Include CSS file in your HTML code then insert a transparent 1x1 pixel image wit
 * Džibutsko (dj)
 * Egypt (eg)
 * Ekvádor (ec)
-* El Salvador (sv)
+* El Salvador (sv)f
 * Eritrea (er)
 * Estonsko (ee)
 * Etiopie (et)
